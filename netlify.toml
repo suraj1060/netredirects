@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/blog/*"
+to = "https://blog.hk.co/:splat"
+status = 200
+force = true
